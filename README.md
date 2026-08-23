@@ -3,13 +3,12 @@ Cisco Initial Switch Hardening & Management IP
 Dokumentasi konfigurasi awal (initial setup) dan pengamanan perangkat Cisco Switch menggunakan CLI (Command Line Interface).
 
 ### Topologi Jaringan
-
+<p>align="center">
 <img width="509" height="308" alt="topology" src="https://github.com/user-attachments/assets/0a6fe9ed-3679-4feb-a590-73470fde4b88" />
-
+</p>
 *(Gambar di atas menunjukkan koneksi antara Switch SW-HomeLab dan PC Client)*
 
 **2. Pengujian Konektivitas (Tes Ping):**
-![Test Ping](evidence/ping-and-ssh-proof.png)
 
 *(Gambar di atas menunjukkan hasil tes ping dari PC Client ke IP Management Switch 192.168.1.10)*
 * **Perangkat:** 1x Cisco Switch (2960) & 3x PC (Client)

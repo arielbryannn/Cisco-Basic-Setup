@@ -6,15 +6,15 @@ Dokumentasi konfigurasi awal (initial setup) dan pengamanan perangkat Cisco Swit
 <p align="center">
 <img width="509" height="308" alt="topology" src="https://github.com/user-attachments/assets/0a6fe9ed-3679-4feb-a590-73470fde4b88" />
 </p>
-*(Gambar di atas menunjukkan koneksi antara Switch SW-HomeLab dan PC Client)*
-
-**2. Pengujian Konektivitas (Tes Ping):**
-
-*(Gambar di atas menunjukkan hasil tes ping dari PC Client ke IP Management Switch 192.168.1.10)*
 * **Perangkat:** 1x Cisco Switch (2960) & 3x PC (Client)
 * **IP Management Switch:** `192.168.1.10 /24` (VLAN 1)
 * **IP PC Client:** `192.168.1.20 /24, 192.168.1.30 /25, 192.168.1.40 /24`
 
+###  Tes Ping Jaringan
+
+<p align="center>
+<img width="697" height="697" alt="tesping" src="https://github.com/user-attachments/assets/d5791847-c514-48d4-a228-477f84f552b0" />
+</p>
 ---
 
 ### Daftar Konfigurasi Utama (CLI)

@@ -14,7 +14,7 @@ Dokumentasi konfigurasi awal (initial setup) dan pengamanan perangkat Cisco Swit
 ###  Tes Ping Jaringan
 
 <p align="center">
-<img width="697" height="697" alt="tesping" src="https://github.com/user-attachments/assets/d5791847-c514-48d4-a228-477f84f552b0" />
+<img width="500" height="300" alt="tesping" src="https://github.com/user-attachments/assets/d5791847-c514-48d4-a228-477f84f552b0" />
 </p>
 
 ### Daftar Konfigurasi Utama (CLI)

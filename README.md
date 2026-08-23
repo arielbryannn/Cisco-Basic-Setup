@@ -1,5 +1,5 @@
 # Cisco Basic Setup
-# Project Mandiri: Cisco Initial Switch Hardening & Management IP
+Cisco Initial Switch Hardening & Management IP
 Dokumentasi konfigurasi awal (initial setup) dan pengamanan perangkat Cisco Switch menggunakan CLI (Command Line Interface).
 
 ## Topologi Jaringan

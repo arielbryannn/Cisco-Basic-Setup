@@ -2,14 +2,14 @@
 Cisco Initial Switch Hardening & Management IP
 Dokumentasi konfigurasi awal (initial setup) dan pengamanan perangkat Cisco Switch menggunakan CLI (Command Line Interface).
 
-## Topologi Jaringan
+### Topologi Jaringan
 * **Perangkat:** 1x Cisco Switch (2960) & 3x PC (Client)
 * **IP Management Switch:** `192.168.1.10 /24` (VLAN 1)
 * **IP PC Client:** `192.168.1.20 /24, 192.168.1.30 /25, 192.168.1.40 /24`
 
 ---
 
-## Daftar Konfigurasi Utama (CLI)
+### Daftar Konfigurasi Utama (CLI)
 Berikut adalah konfigurasi yang diterapkan pada Switch `SW-HomeLab`:
 1. **Hostname Configuration:** Mengubah nama perangkat menjadi `SW-HomeLab`.
 2. **Security Hardening:**
@@ -26,7 +26,7 @@ Berikut adalah konfigurasi yang diterapkan pada Switch `SW-HomeLab`:
 
 ---
 
-## Command CLI
+### Command CLI
 ```text
 Switch>en
 Switch#conf t

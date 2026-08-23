@@ -7,9 +7,9 @@ Dokumentasi konfigurasi awal (initial setup) dan pengamanan perangkat Cisco Swit
 <img width="509" height="308" alt="topology" src="https://github.com/user-attachments/assets/0a6fe9ed-3679-4feb-a590-73470fde4b88" />
 </p>
 
-***Perangkat:** 1x Cisco Switch (2960) & 3x PC (Client)
-***IP Management Switch:** `192.168.1.10 /24` (VLAN 1)
-***IP PC Client:** `192.168.1.20 /24, 192.168.1.30 /25, 192.168.1.40 /24`
+* **Perangkat:** 1x Cisco Switch (2960) & 3x PC (Client)
+* **IP Management Switch:** `192.168.1.10 /24` (VLAN 1)
+* **IP PC Client:** `192.168.1.20 /24, 192.168.1.30 /25, 192.168.1.40 /24`
 
 ###  Tes Ping Jaringan
 
